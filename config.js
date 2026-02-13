@@ -55,7 +55,7 @@ const config = {
   // 🎵 Music Settings
   music: {
     enabled: true,
-    autoplay: false,
+    autoplay: false,   // MUST be false
     musicUrl: "https://files.catbox.moe/miqegt.mp3",
     startText: "🎵 Play Our Song",
     stopText: "🔇 Stop Music",
