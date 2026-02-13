@@ -1,7 +1,7 @@
 const config = {
   // 💖 Basic Information
   valentineName: "My Baby 💖",
-  pageTitle: "Hey Baby.. I Have Something For You 💝",
+  pageTitle: "Hey Baby.. I Have Something For You 💝", 
 
   // 💕 Floating Background Elements
   floatingEmojis: {
