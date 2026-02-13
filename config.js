@@ -45,7 +45,7 @@ const config = {
 
   // 🎨 Colors
   colors: {
-    backgroundStart: "#ffafbd",
+    backgroundStart: "#ffafbd", 
     backgroundEnd: "#ffc3a0",
     buttonBackground: "#ff6b6b",
     buttonHover: "#ff8787",
